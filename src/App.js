@@ -208,7 +208,7 @@ function App() {
   return (
     <div className="container">
       <div className="text-center">
-        <h1>Quản Lý Công Việc</h1>
+        <h1>TODO APP</h1>
         <hr />
       </div>
       <div className="row">
